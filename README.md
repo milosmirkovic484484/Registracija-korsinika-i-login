@@ -1,1 +1,1 @@
-echo "# Registraciju-korisnika-Login-korisnika"
+# Registraciju-korisnika-Login-korisnika
