@@ -1,1 +1,5 @@
-# Registracija-korsinika-i-login-korisnika
+# Registracija-korsinika-i-login-korisnik
+
+Install 
+
+npm node
