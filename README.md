@@ -1,5 +1,4 @@
 # Registracija-korsinika-i-login-korisnik
 
-Install 
+startup nodemon
 
-npm node
